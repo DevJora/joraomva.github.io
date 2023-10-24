@@ -73,3 +73,10 @@ li.lien {
 .pointer {
     cursor: pointer;
 }
+
+.btn {
+    width: 20vh;
+    height: 2rem;
+    background-color: rgb(226, 180, 65);
+    border: none;
+}
