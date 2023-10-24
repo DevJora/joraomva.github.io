@@ -1,0 +1,71 @@
+
+body {
+    width: 40%;
+    margin: 5rem auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    width: 100%;
+    
+}
+
+header div {
+    margin-left: 10px;
+    width: 50%;
+    color: darkcyan;
+}
+header div div {
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+}
+
+header aside {
+    width: 40%;
+}
+
+h4 {
+    color: darkgoldenrod;
+}
+
+a {
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+h4.titre {
+    margin-bottom: 0px;
+}
+
+
+
+
+.profile {
+    width: 80%;
+    border-radius: 47%;
+}
+
+.p-titre {
+    margin-top: 0;
+}
+
+/*Classes génériques*/
+.m-auto {
+    margin: auto;
+}
+.flex {
+    display: flex;
+}
+.content-center {
+    justify-content: center;
+}
+
+li.lien {
+    list-style:decimal;
+}
+
+
+.pointer {
+    cursor: pointer;
+}
